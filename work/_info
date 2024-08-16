@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/FPGA_proj/vhdl/w2/5
+vAAC2M3P1_tb
+!s110 1723843442
+!i10b 1
+!s100 `_?0lU:A_VSW7]Z0h<_Ea3
+IzIldTVoR]Y4XTz`I:@[hb1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/FPGA_proj/vhdl/w3/comparator_verilog
+w1573398404
+8C:/FPGA_proj/vhdl/w3/comparator_verilog/AAC2M3P1_tb.vp
+FC:/FPGA_proj/vhdl/w3/comparator_verilog/AAC2M3P1_tb.vp
+L0 61
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1723843441.000000
+!s107 C:/FPGA_proj/vhdl/w3/comparator_verilog/AAC2M3P1_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_proj/vhdl/w3/comparator_verilog/AAC2M3P1_tb.vp|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@a@c2@m3@p1_tb
+vComparator2
+!s110 1723843441
+!i10b 1
+!s100 KeENX30<[:@:?=LM5R?lK3
+IWeMPY0C6J`eSoJS;@hAYn0
+R0
+R1
+w1723843435
+8C:/FPGA_proj/vhdl/w3/comparator_verilog/AAC2M3P1.v
+FC:/FPGA_proj/vhdl/w3/comparator_verilog/AAC2M3P1.v
+L0 3
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:/FPGA_proj/vhdl/w3/comparator_verilog/AAC2M3P1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_proj/vhdl/w3/comparator_verilog/AAC2M3P1.v|
+!i113 1
+R4
+R5
+n@comparator2
